@@ -1,0 +1,22 @@
+{
+  "name": "BreathableNotify",
+  "version": "0.0.1",
+  "description": "Push notification generator for testing Breath.able",
+  "homepage": "https://github.com/collingo/breathableNotify",
+  "bugs": "https://github.com/collingo/breathableNotify/issues",
+  "author": {
+    "name": "Nick Collings",
+    "email": "nick@collingo.com",
+    "url": "https://github.com/collingo"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/collingo/breathableNotify.git"
+  },
+  "dependencies": {
+    "express": "~3.4.8"
+  },
+  "devDependencies": {},
+  "peerDependencies": {}
+}
