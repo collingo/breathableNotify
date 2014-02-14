@@ -1,3 +1,11 @@
 h1 {
-	color:red;
+	
+}
+textarea {
+	display:block;
+	width:40em;
+	height:10em;
+}
+input {
+
 }
